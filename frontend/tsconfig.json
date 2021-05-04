@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", //indica para os arquivos serem salvos na pasta src
     "target": "es5",
     "lib": [
       "dom",
