@@ -5,7 +5,7 @@
 
 [https://yornellas-sds3.netlify.app](https://yornellas-sds3.netlify.app/)
 
-DSVendas é uma aplicação full stack web construída durante a **Semana Spring React** (#sds3), organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSVendas é uma aplicação full stack web construída durante a **Semana Spring React** (#sds3), organizada pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 É uma aplicação de gerenciamento de vendas, onde os dados são coletados via banco de dados e listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
